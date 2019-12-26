@@ -1,6 +1,8 @@
-# fant
+<p align="center">
+    <img alt="logo" src="https://img.yzcdn.cn/vant/logo.png" width="120" height="120" style="margin-bottom: 10px;">
+</p>
 
-A new Flutter package project.
+<h3 align="center" style="margin: 30px 0 35px;">Flutter UI Components built on Vant</h3>
 
 ## Getting Started
 
