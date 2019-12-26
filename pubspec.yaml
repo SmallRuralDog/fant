@@ -1,8 +1,7 @@
 name: fant
-description: A new Flutter package project.
+description: Lightweight Flutter UI Components built on Vant.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/SmallRuralDog/fant
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
